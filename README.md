@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=soft)
-
+![header](https://capsule-render.vercel.app/api?text=attitude-py's%Data%Analysis&fontSize=35&rotate=-30)
 
 Hello. I'm Yu-jin Lee. I live in Busan now and I am studying in Pusan National University.
 1. My major is curriculum-teaching counseling.
