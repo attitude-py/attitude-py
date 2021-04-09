@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?text=capsule_render&animation=blinking 1.5s)
+![header](https://capsule-render.vercel.app/api?type=soft&text=attitude-py&fontColor=d6ace6)
